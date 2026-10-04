@@ -40,4 +40,4 @@ Stack Tecnológico
 * **Control de Versiones:** Git, GitHub
 
 ---
-📫 *Abierto a colaboraciones y oportunidades en Análisis de Datos, Business Intelligence y Finanzas Quant.*
+*Abierto a colaboraciones y oportunidades en Análisis de Datos, Business Intelligence y Finanzas Quant.*
